@@ -1,2 +1,2 @@
 # CS-projects
-My projects from Computer Science Course
+Some of my projects from Computer Science Course
