@@ -1,2 +1,2 @@
-# CS-projects
-Some of my projects from Computer Science Course
+# Basics of Programming
+## Poison Game
