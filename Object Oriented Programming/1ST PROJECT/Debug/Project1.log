@@ -1,0 +1,22 @@
+﻿  Animal.cpp
+  Antelope.cpp
+  Berries.cpp
+  Dandelion.cpp
+  Fox.cpp
+  Grass.cpp
+  Guarana.cpp
+  Hogweed.cpp
+C:\Users\macia\OneDrive\git\po\PROJEKT1\Project1\Project1\Hogweed.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  Human.cpp
+  main.cpp
+C:\Users\macia\OneDrive\git\po\PROJEKT1\Project1\Project1\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Organism.cpp
+  Plant.cpp
+  Sheep.cpp
+  Turtle.cpp
+  Wolf.cpp
+  World.cpp
+C:\Users\macia\OneDrive\git\po\PROJEKT1\Project1\Project1\World.cpp(438,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\macia\OneDrive\git\po\PROJEKT1\Project1\Project1\World.cpp(76): warning C4715: 'World::getHuman': not all control paths return a value
+  Project1.vcxproj -> C:\Users\macia\OneDrive\git\po\PROJEKT1\Project1\Debug\Project1.exe
