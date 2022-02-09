@@ -1,2 +1,7 @@
-# CS-projects
-Some of my projects from Computer Science Course
+# Algorithms and Data Structures
+
+## XOR Linked List
+
+## FIFO Queue
+
+## B-tree
