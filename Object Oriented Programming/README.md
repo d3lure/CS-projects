@@ -1,2 +1,3 @@
-# CS-projects
-Some of my projects from Computer Science Course
+# OOP
+
+Lorem Ipsum
