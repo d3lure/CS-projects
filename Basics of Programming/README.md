@@ -1,2 +1,2 @@
 # Basics of Programming
-## Poison Game
+### Commmand line implementation of 'Poison Game'
