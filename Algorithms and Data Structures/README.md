@@ -1,7 +1,9 @@
 # Algorithms and Data Structures
 
-## XOR Linked List
+### Implementations of various data structures:
 
-## FIFO Queue
+#### - XOR Linked List
 
-## B-Tree
+#### -  FIFO Queue
+
+#### - B-Tree
